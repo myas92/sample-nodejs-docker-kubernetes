@@ -1,5 +1,7 @@
 [Gist link](https://gist.github.com/myas92/d3e96ae34fc36e7562fbb6d91edbb80bZ)
 
+[Youtube link](https://www.youtube.com/watch?v=T4lp6wtS--4&t=22s)
+
 [How to install docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04)
 
 - Docker's internal repos is not supported on 20.04 yet so
