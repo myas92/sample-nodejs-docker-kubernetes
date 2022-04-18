@@ -1,4 +1,4 @@
-[Gist link](https://gist.github.com/myas92/d3e96ae34fc36e7562fbb6d91edbb80b)
+[Gist link](https://gist.github.com/myas92/d3e96ae34fc36e7562fbb6d91edbb80bZ)
 
 [How to install docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04)
 
@@ -12,6 +12,8 @@
     - nameserver 192.168.1.100
  - and sign in to docker
  - `sudo docker login` then enter username and password of docker account based on [this answer](https://stackoverflow.com/questions/53477114/using-proxy-on-docker-compose-in-server/69240785#69240785)
+
+
 
 
 How to create a image (Node)
